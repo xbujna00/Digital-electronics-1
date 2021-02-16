@@ -45,3 +45,8 @@ begin
 end architecture dataflow;
 
 ```
+### Graphs
+
+![Screenshot Verification of Distributive law](Images/2.png)
+
+https://www.edaplayground.com/x/b3B2
