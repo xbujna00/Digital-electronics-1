@@ -1,5 +1,8 @@
 # Digital-electronics-1
 ## Lab 1
+### <i> De Morgan's Laws simulations <i>
+#### <b> xbujna00 <b>
+    
 
 **Source code**
 
