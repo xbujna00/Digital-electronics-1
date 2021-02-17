@@ -42,4 +42,4 @@ begin
 end architecture dataflow;
 
 ```
-
+https://www.edaplayground.com/x/WvfM
